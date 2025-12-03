@@ -1,0 +1,1 @@
+savedcmd_/home/dsd/Documents/2_read_write/read_write.mod := printf '%s\n'   read_write.o | awk '!x[$$0]++ { print("/home/dsd/Documents/2_read_write/"$$0) }' > /home/dsd/Documents/2_read_write/read_write.mod

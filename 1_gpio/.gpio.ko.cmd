@@ -1,0 +1,1 @@
+savedcmd_/home/dsd/Documents/1_gpio/gpio.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/dsd/Documents/1_gpio/gpio.ko /home/dsd/Documents/1_gpio/gpio.o /home/dsd/Documents/1_gpio/gpio.mod.o /home/dsd/Documents/1_gpio/.module-common.o

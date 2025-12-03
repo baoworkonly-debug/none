@@ -1,0 +1,1 @@
+savedcmd_/home/dsd/Documents/2_read_write/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/dsd/Documents/2_read_write/Module.symvers -T /home/dsd/Documents/2_read_write/modules.order -i Module.symvers -e 

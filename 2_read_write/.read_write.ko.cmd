@@ -1,0 +1,1 @@
+savedcmd_/home/dsd/Documents/2_read_write/read_write.ko := arm-linux-gnueabihf-ld -r -EL -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm/module.lds -o /home/dsd/Documents/2_read_write/read_write.ko /home/dsd/Documents/2_read_write/read_write.o /home/dsd/Documents/2_read_write/read_write.mod.o /home/dsd/Documents/2_read_write/.module-common.o
